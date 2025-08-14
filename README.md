@@ -116,7 +116,7 @@ I enjoy transforming ideas into reality, from architecting APIs to creating slee
       <h3>📚 Frameworks, Platforms & Libraries</h3>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="AntDesign" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
       <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"
       alt="Chart.js" />
@@ -204,13 +204,5 @@ I enjoy transforming ideas into reality, from architecting APIs to creating slee
 
 ---
 
-<div align="center">
-  <h1>🐍 My Contributions 🐍</h1>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhlananhh&theme=dracula&hide_border=true" alt="contribution graph" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhlananhh/dhlananhh/output/github-contribution-grid-snake-light.svg" />
-</div>
-
----
 
 
