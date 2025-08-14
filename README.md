@@ -22,80 +22,13 @@
     Welcome to my Github 😙
   </h1>
 
-  👩🏻 My name is **Lan Anh**. I'm a Software Engineering student with a passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> for building web applications using modern technologies, <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VteDJ5Y2twaWVwMTdmZGszOW4zbDk1Ym9obmVocXlyZGt3ZjN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="40" /> and currently living in Ho Chi Minh City, Vietnam. <img src="https://media.giphy.com/media/upeUCSCeNo4qqHlxgW/giphy.gif?cid=ecf05e47yg2xaqqfoc8s2coq4cldpm892nk1qvoui1btj8am&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="40" /> <br/>
-  👩🏻‍💻 I'm studying Software Engineering in my final year at the Industrial University of Ho Chi Minh City. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzYxcHlncmM4cm5zenJzYndhMjc3Y2ZiMnhyN2RkNXo2eWRvdHJiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kwLOtSFR0lf4MfhPZj/giphy.gif" width="40" /> <br/>
-  💪🏻 At the moment, I am working on full-stack projects to improve my skills and experiences. <img src="https://media.giphy.com/media/ImAnYWlmD40QPJYbVf/giphy.gif?cid=ecf05e47hmewgl4ej1t5plnslntb9l53xxidbapoenta3t5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" /> <br/>
-  💁🏻‍♀️ Feel free to chat with me! 💅🏻 ✨ <br/>
-  🙋🏻‍♀️ Want to know more about me? Check out my &nbsp;
-  <a href="https://dhlananh-dev-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-  </a>
+ Hi there! 👋 I’m a Full Stack Developer passionate about building scalable, high-performance applications that make an impact. With a strong background in PHP, Python, JavaScript, and TypeScript, I craft both robust backend systems and engaging front-end experiences.
+
+I enjoy transforming ideas into reality, from architecting APIs to creating sleek, responsive UIs. My workflow is driven by clean code, maintainable architecture, and continuous learning.
 </div>
 
 ---
 
-# 📌 Pinned Repositories
-
-<div align="center">
-  <table border="0" cellpadding="10" cellspacing="0" align="center">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/minhlq2003/bookstore-frontend-nextjs">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlq2003&repo=bookstore-frontend-nextjs&show_owner=true&theme=dracula" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/HieuTrungMc/bookstore-backend-nodejs">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HieuTrungMc&repo=bookstore-backend-nodejs&show_owner=true&theme=dracula" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/dhlananhh/bookstore_chatbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=bookstore_chatbot&show_owner=true&theme=dracula" />
-        </a>
-      </td>
-      <td align="center">
-         <a href="https://github.com/datvct/chathub-web">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=datvct&repo=chathub-web&show_owner=true&theme=dracula" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-         <a href="https://github.com/dhlananhh/my-3d-portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=my-3d-portfolio&show_owner=true&theme=dracula" />
-        </a>
-      </td>
-      <td align="center">
-         <a href="https://github.com/dhlananhh/Educational-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Educational-App&show_owner=true&theme=dracula" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/dhlananhh/ForeverBuy-Ecommerce">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=ForeverBuy-Ecommerce&show_owner=true&theme=dracula" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/dhlananhh/GSAP-Awwwards-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=GSAP-Awwwards-Website&show_owner=true&theme=dracula" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-# 🚀 My Open Source Contributions
-
-- Merged contribution [#2489](https://github.com/emmabostian/developer-portfolios/pull/2489) into **[emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)**.
-
----
 
 # 🤝🏻 My Contribution Stats
 
@@ -118,84 +51,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Github Profile Quote" />
 </div>
-
----
-
-# 💳 My GitHub Profile Summary Card
-
-<div align="center">
-  <table border="0" cellpadding="10" width="500">
-    <tr>
-      <td align="center" colspan="2">
-        <img
-          src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/0-profile-details.svg"
-          alt="profile details card"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img
-          src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/3-stats.svg"
-          alt="Stats"
-        />
-      </td>
-      <td align="center">
-        <img
-          src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/4-productive-time.svg"
-          alt="productive time"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img
-          src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg"
-          height="200"
-          alt="top languages by repo"
-        />
-      </td>
-      <td align="center">
-        <img
-          src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/2-most-commit-language.svg"
-          height="200"
-          alt="most commit languages"
-        />
-      </td>
-    </tr>
-  </table>
-
-  <table border="0" cellpadding="10" width="500">
-  <tr>
-      <td align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=dhlananhh&include_all_commits=true&count_private=true&theme=dracula&show_icons=true&hide_border=true"
-          alt="GitHub Stats"
-        />
-      </td>
-      <td align="center">
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=dhlananhh&theme=dracula&hide_border=true"
-          alt="GitHub Streak"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-# ⚡️ Recent Activities
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#17](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/17) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-2. 🎉 Merged PR [#18](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/18) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-3. 🎉 Merged PR [#19](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/19) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-4. 🎉 Merged PR [#20](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/20) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-5. 🎉 Merged PR [#21](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/21) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-
-<!--END_SECTION:activity-->
 
 ---
 
@@ -290,16 +145,6 @@ EJS                      3 repos             █░░░░░░░░░░�
 
 ---
 
-# ✨ My Github Stats
-
-<div align="center">
-  <img
-    src="https://github.com/dhlananhh/dhlananhh/blob/main/images/userstats.svg"
-    alt="user-statistician by cicirello"
-  />
-</div>
-
----
 
 # 💻 My Tech Stack
 
@@ -439,51 +284,4 @@ EJS                      3 repos             █░░░░░░░░░░�
 
 ---
 
-# 📩 Contact Me
 
-<div align="left">
-  <!-- Gmail -->
-  <a href="mailto:dhlananh2309@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dhlananh/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <!-- Portfolio -->
-  <a href="https://dhlananh-dev-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-  </a>
-  <!-- Github -->
-  <a href="https://github.com/dhlananhh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- Discord -->
-  <img src="https://dcbadge.limes.pink/api/shield/896032453263753226" alt="My Discord" />
-  <!-- Facebook  -->
-  <a href="https://www.facebook.com/dhlananhh" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-  <!-- Messenger -->
-  <a href="https://m.me/dhlananhh" target="_blank">
-    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/dhlananh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <!-- Threads -->
-  <a href="https://www.threads.com/@dhlananh" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" />
-  </a>
-  <!-- Zalo -->
-  <a href="https://zalo.me/0785227949" target="_blank">
-    <img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
-  </a>
-</div>
-
-<img
-  align="right"
-  src="https://i.imgflip.com/65efzo.gif"
-  width="200" height="200"
-/>
